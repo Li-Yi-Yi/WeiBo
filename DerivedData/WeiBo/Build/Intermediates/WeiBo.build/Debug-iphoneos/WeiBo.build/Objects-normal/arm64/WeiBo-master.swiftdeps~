@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "2c9f70d2a4173142c080236c898b000a"
+build_time: [553842077, 983873000]
+inputs:
+  "/Users/liyi/Desktop/WeiBo/WeiBo/AppDelegate.swift": [553765168, 0]

@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "62b930e6de4a2f1c88925875d4f91a7b"
+build_time: [1522727167, 405947000]
+inputs:
+  "/Users/liyi/Desktop/WeiBo/Classes/View/Home/WBHomeVC.swift": [1522726371, 0]
+  "/Users/liyi/Desktop/WeiBo/Classes/View/Main/WBMainVC.swift": [1522725747, 0]
+  "/Users/liyi/Desktop/WeiBo/WeiBo/AppDelegate.swift": [1522727167, 0]
+  "/Users/liyi/Desktop/WeiBo/Classes/View/Message/WBMessagVC.swift": [1522726414, 0]
+  "/Users/liyi/Desktop/WeiBo/Classes/View/Main/WBBaseVC.swift": [1522726286, 0]
+  "/Users/liyi/Desktop/WeiBo/Classes/View/Discover/WBDiscoverVC.swift": [1522726439, 0]
+  "/Users/liyi/Desktop/WeiBo/Classes/View/Main/WBNavVC.swift": [1522726210, 0]
+  "/Users/liyi/Desktop/WeiBo/Classes/View/Profile/WBProfileVC.swift": [1522726461, 0]
